@@ -1,0 +1,28 @@
+h1{
+    color:rgb(140, 0, 255);
+    background: black;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    height: auto;
+    width: fit-content;
+    background: linear-gradient(green,yellow);
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+h2{
+    color: antiquewhite;
+    text-shadow: 5px 5px 5px blanchedalmond;
+}
